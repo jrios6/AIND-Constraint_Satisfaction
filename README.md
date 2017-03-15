@@ -1,4 +1,4 @@
-##Forked from https://github.com/udacity/AIND-Constraint_Satisfaction
+Forked from https://github.com/udacity/AIND-Constraint_Satisfaction
 
 Implemented the following functions in Jupyter notebook for the Backtracking Search algorithm using symbolic constraints to solve the Constraint Satisfaction N-Queen Problem:
 1. __init__ in NQueensCSP to initialise constraints for an N-Sized board
